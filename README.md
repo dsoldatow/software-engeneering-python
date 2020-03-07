@@ -70,6 +70,6 @@ class FilePrinter:
 
 1. https://github.com/dsoldatow/software-engeneering-python/tree/lecture3
 
-2. Интерфейсы Объектов и Команд (абстрактные классы), Классы объектов, Реализация команд (implementation)
+2. Интерфейсы Объектов BaseObject и Команд BaseCommand (абстрактные классы), Классы объектов (Numbers), command/ Реализация команд (implementation)
 
 3. GUI - консоль, Implementation - реализация команд, бизнес логика объекты и взаимодействие с ними, интерфейсы - interfaces
